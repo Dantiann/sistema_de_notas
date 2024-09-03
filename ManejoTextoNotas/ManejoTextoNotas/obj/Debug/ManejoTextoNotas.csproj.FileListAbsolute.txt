@@ -1,0 +1,23 @@
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.exe.config
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.exe
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.pdb
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.exe
+C:\Users\APRENDIZ\source\repos\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.exe.config
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\C#_Windows_Forms\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\bin\Debug\ManejoTextoNotas.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\ManejoTextoNotas\ManejoTextoNotas\obj\Debug\ManejoTextoNotas.pdb
